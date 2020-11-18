@@ -1,0 +1,48 @@
+{
+  "cucumberautocomplete.formatConfOverride": {
+    "Ability": 0,
+    "Business Need": 0,
+    // feature
+    "Fonctionnalité:": 0,
+    // scenario
+    "Scénario:": 1,
+    // background
+    "Contexte:": 1,
+    // scenarioOutline
+    "Plan du scénario:": 1,
+    "Plan du Scénario:": 1,
+    "Exemples:": 2,
+    // given
+    "Soit": 2,
+    "Etant donné qu'": 2,
+    "Etant donné": 2,
+    "Etant donnée": 2,
+    "Etant donnés": 2,
+    "Etant données": 2,
+    "Étant donné que": 2,
+    "Étant donné qu'": 2,
+    "Étant donné": 2,
+    "Étant donnée": 2,
+    "Étant donnés": 2,
+    "Étant données ": 2,
+    // when
+    "Quand": 2,
+    "Lorsque": 2,
+    "Lorsqu'": 2,
+    // then
+    "Alors": 2,
+    // and
+    "Et": 2,
+    "Et que": 2,
+    "Et qu'": 2,
+    // but
+    "Mais": 2,
+    "Mais que": 2,
+    "Mais qu'": 2,
+    "\\*": 2,
+    "\\|": 3,
+    "\"\"\"": 3,
+    "#": "relative",
+    "@": "relative"
+  }
+}
